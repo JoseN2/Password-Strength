@@ -21,6 +21,8 @@ This Python project provides a simple yet effective tool to test the strength of
 <h2>Program walk-through:</h2>
 I created the code using Visual Studio 
 
+![image](https://github.com/JoseN2/Password-Strength/assets/87278438/4cbc0ff1-994b-49de-9259-f2e6ed0be97a)
+
 
 
 
