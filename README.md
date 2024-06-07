@@ -13,7 +13,9 @@ This Python project provides a simple yet effective tool to test the strength of
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> 
-- <b>Visual Studio 10</b> 
+- <b>Visual Studio 10</b>
+- - <b>Powershell 10</b> 
+
 
 
 <h2>Program walk-through:</h2>
