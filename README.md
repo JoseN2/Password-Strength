@@ -19,7 +19,13 @@ This Python project provides a simple yet effective tool to test the strength of
 
 
 <h2>Program walk-through:</h2>
+I created the code using Visual Studio 
 
+
+
+
+
+ <!-- this is hidden 
 <p align="center">
 Launch the utility: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
