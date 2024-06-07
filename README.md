@@ -23,8 +23,14 @@ I created the code using Visual Studio
 
 ![image](https://github.com/JoseN2/Password-Strength/assets/87278438/4cbc0ff1-994b-49de-9259-f2e6ed0be97a)
 
+open up PowerShell and run the python code
+
+![image](https://github.com/JoseN2/Password-Strength/assets/87278438/dc732d38-a56d-4572-bcb5-a2c4f576acc0)
+
+then just input a bunch of passwords until a Stong password is found 
 
 
+![image](https://github.com/JoseN2/Password-Strength/assets/87278438/e5477bd0-a8a6-4808-8203-b5f7918e514d)
 
 
  <!-- this is hidden 
